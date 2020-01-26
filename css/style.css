@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600');
+
+body{
+	background-color: black;
+}
+
+.titleHead{
+	font-family: Raleway;
+	font-weight: 600;
+	font-size: 50px;
+	background-color: rgb(20, 20, 20);
+	color: white;
+	position: absolute; 
+	top: 38%;
+	left: 35%;
+}
